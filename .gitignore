@@ -23,6 +23,9 @@ release
 *.njsproj
 *.sln
 *.sw?
+.env.development
+
+
 
 #lockfile
 package-lock.json
